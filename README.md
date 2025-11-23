@@ -1,4 +1,3 @@
-# SET-ASSOCIATE-MAPPED-CACHE-SIMULATOR
 #  Set-Associative Cache Simulator using Python
 
 A fully interactive **Set-Associative Cache Simulator** built using Python and Tkinter, designed for Computer Organization & Architecture (COA) learning.  
